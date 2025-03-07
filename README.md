@@ -18,8 +18,7 @@ Baidu:  https://pan.baidu.com/s/1t5UWpRUi5u01OGo6zdaF5w with the fetch code: suy
     volume    = {275},
     pages     = {127004},
     year      = {2025},
-    issn      = {0957-4174},
-    doi       = {https://doi.org/10.1016/j.eswa.2025.127004},
-}<br>
+    issn      = {0957-4174}}
+```
 If you have some questions, please contact: suyiming812@163.com 
 
