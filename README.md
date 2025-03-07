@@ -8,6 +8,18 @@ torchvision
 ## RGB-D Saliency Maps<br>
 Baidu:  https://pan.baidu.com/s/1CX4YqW8v74JtlruD_tIM_Q with the fetch code: suym
 ## RGB-T Saliency Maps<br>
-Baidu:  https://pan.baidu.com/s/1t5UWpRUi5u01OGo6zdaF5w with the fetch code: suym
+Baidu:  https://pan.baidu.com/s/1t5UWpRUi5u01OGo6zdaF5w with the fetch code: suym<br>
+## Citation<br>
+```bibtex
+@ARTICLE{su_2025_ACINet,
+    author    = {Yiming Su and Haoran Gao and Mengyin Wang and Fasheng Wang},
+    title     = {Asymmetric cross-modality interaction network for RGB-D salient object detection},
+    journal   = {Expert Systems with Applications},
+    volume    = {275},
+    pages     = {127004},
+    year      = {2025},
+    issn      = {0957-4174},
+    doi       = {https://doi.org/10.1016/j.eswa.2025.127004},
+}<br>
 If you have some questions, please contact: suyiming812@163.com 
 
