@@ -12,7 +12,7 @@ import sys
 sys.path.append('./models')
 import numpy as np
 from datetime import datetime
-from models.ACINet import ACINet
+from models import ACINet
 from torchvision.utils import make_grid
 from data import get_loader, test_dataset
 from utils import clip_gradient, adjust_lr
