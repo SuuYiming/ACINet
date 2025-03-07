@@ -12,13 +12,14 @@ Baidu:  https://pan.baidu.com/s/1t5UWpRUi5u01OGo6zdaF5w with the fetch code: suy
 ## Citation<br>
 ```bibtex
 @ARTICLE{su_2025_ACINet,
-    author    = {Yiming Su and Haoran Gao and Mengyin Wang and Fasheng Wang},
-    title     = {Asymmetric cross-modality interaction network for RGB-D salient object detection},
-    journal   = {Expert Systems with Applications},
-    volume    = {275},
-    pages     = {127004},
-    year      = {2025},
-    issn      = {0957-4174}}
+         author   = {Yiming Su and Haoran Gao and Mengyin Wang and Fasheng Wang},
+         title    = {Asymmetric cross-modality interaction network for RGB-D salient object detection},
+         journal  = {Expert Systems with Applications},
+         volume   = {275},
+         pages    = {127004},
+         year     = {2025},
+         issn     = {0957-4174},
+}
 ```
-If you have some questions, please contact: suyiming812@163.com 
+If you have some questions, please contact: suyiming812@163.com or yimingsu@mail.bnu.edu.cn
 
