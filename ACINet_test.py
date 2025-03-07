@@ -41,7 +41,7 @@ model.eval()
 test_datasets = ['NLPR','DES','SIP','DUT-RGBD','NJU2K','STERE','LFSD']
 # test_datasets = ['VT821','VT1000','VT5000']
 for dataset in test_datasets:
-    save_path = './test_maps/ACINet/' + dataset + '/'
+    save_path = '/' + dataset + '/'
     if not os.path.exists(save_path):
         os.makedirs(save_path)
     image_root = dataset_path + dataset + '/RGB/'
